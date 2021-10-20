@@ -1,0 +1,6 @@
+In this project suggestion, I would like to discuss about navigation of locations and bus route . In my sight, I would make such an application where a person can know the directions of the location he wants to visit as well as he can know the bus services that which bus will leave at what time. Just by sitting at home anyone can know the direction of the place which they want to know and the timings of the bus.  The function of the app is helping every person looking for directions of the place he wants to visit.
+
+Helping people to find the location and bus route and timing of that bus easily.
+
+
+
